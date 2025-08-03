@@ -172,7 +172,8 @@ OUTPUT APPROVED
 ---------- TextMessage (RoutingAgent) ----------
 **TERMINATE**
 
-(v_venv) C:\Users\Ipsheeta\Documents\KrishNaik_LiveClass_Repo\Live-Class\Ipsheeta_Projects_Autogen\society_of_minds_implementation>python with_selector.py
+Run2
+   ----
 
 
  Running analysis pipeline...
